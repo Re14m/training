@@ -7,7 +7,7 @@ import sqlite3
 from contextlib import closing
 import collections
 
-# Historyファイルの保存場所を指定
+# Historyファイルの保存場所を指定(同じフォルダの中にchromeのhistoryファイルをつっこんでください)
 history = 'History'
 
 # 履歴ファイルからデータ取出し（SQLiteに接続してSELECT）

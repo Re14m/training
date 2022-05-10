@@ -3,6 +3,7 @@ import tweepy
 import time
 
 # TwitterAPIの認証キーを設定
+# これはれいあむのなので使わないで欲しいﾅﾘ
 CONSUMER_KEY = 'Ayog0R0SVSUvuZ2ee72SNHo3t'
 CONSUMER_SECRET = '5fmCCwGZRQrFTL18nbyXGLVX1kWtmPPEOuq4MArBMahZuY1M7g'
 ACCESS_TOKEN = '1470940921051369475-PqsVgskDnnTQpZxTVXG5CAwxVcEQRv'

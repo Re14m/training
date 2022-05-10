@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
-
-
 # モジュールのインポート
 import openai
 
@@ -41,4 +38,3 @@ presence_penalty：
 '''
 # 結果を出力
 print(response['choices'][0]['text'])
-

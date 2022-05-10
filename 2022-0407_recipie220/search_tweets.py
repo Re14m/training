@@ -1,7 +1,9 @@
+# ライブラリのインポート
 import tweepy
 import time
 
 # TwitterAPIKey(https://developer.twitter.com/en/portal/projects-and-apps)
+# これはれいあむのなので、勝手に使わないでほしいﾅﾘ
 CONSUMER_KEY = 'exCxquVA508R5F7xZqRyMK2b1'
 CONSUMER_SECRET = 'XgxTJbtv6mJ8wXg9P52fL6brxcswGDxZyXATiptWDByaysPdhu'
 ACCESS_TOKEN = '1470940921051369475-K7qukVcAzcgnriWrL6qH6wHWQTATz9'
