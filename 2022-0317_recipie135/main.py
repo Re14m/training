@@ -4,7 +4,8 @@
 # モジュールのインポート
 import openai
 
-# APIキーの入
+# APIキーの入力
+# これはれいあむのなので使わないで欲しいﾅﾘ
 openai.api_key = "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"
 
 # promptに送るテキストを入力
