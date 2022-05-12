@@ -1,10 +1,12 @@
-#ライブラリのインポート
+# # [TwitterAPIと形態素解析でフォロワーのいいねしたツイートの傾向を分析するレシピ(https://axross-recipe.com/recipes/198)]
+
+# パッケージのインポート
 import streamlit as st
 from janome.tokenizer import Tokenizer
 import collections
 import pandas as pd
 
-#データセット読込
+# データセット読込
 with open('result.txt', 'r', encoding='UTF-8') as f:
     text = f.read()
 t = Tokenizer()

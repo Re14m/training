@@ -1,7 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
+# [ブラウザの履歴データから形態素解析でユーザーの嗜好を抽出するレシピ(https://axross-recipe.com/recipes/163)]
 
-# ライブラリのインストール（Janome）
+# パッケージのインストール（Janome）
 from janome.tokenizer import Tokenizer
 import sqlite3
 from contextlib import closing

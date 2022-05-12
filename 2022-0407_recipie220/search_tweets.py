@@ -1,4 +1,6 @@
-# ライブラリのインポート
+# # [TwitterAPIで乃木坂４６メンバーの話題度を比較分析するレシピ(https://axross-recipe.com/recipes/220)]
+
+# パッケージのインポート
 import tweepy
 import time
 

@@ -1,4 +1,6 @@
-# ライブラリのインポート
+# [単眼デプス推定を用いて距離を計測するレシピ(https://axross-recipe.com/recipes/404)]
+
+# パッケージのインポート
 import copy
 import time
 import cv2

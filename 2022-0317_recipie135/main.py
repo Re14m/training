@@ -1,7 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
+# [GPT-3でタイトルや要約から記事本文を自動生成するレシピ](https://axross-recipe.com/recipes/135)
 
-# モジュールのインポート
+# パッケージのインポート
 import openai
 
 # APIキーの入力

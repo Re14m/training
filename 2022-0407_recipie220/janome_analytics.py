@@ -1,4 +1,6 @@
-# ライブラリのインストール
+# [TwitterAPIで乃木坂４６メンバーの話題度を比較分析するレシピ(https://axross-recipe.com/recipes/220)]
+
+# パッケージのインストール
 from janome.tokenizer import Tokenizer
 import collections
 

@@ -1,4 +1,6 @@
-# ライブラリのインポート
+# [TwitterAPIと形態素解析でフォロワーのいいねしたツイートの傾向を分析するレシピ(https://axross-recipe.com/recipes/198)]
+
+# パッケージのインポート
 import tweepy
 import time
 

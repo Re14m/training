@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
+# [類似文章を検索するAPIを作成するレシピ](https://axross-recipe.com/recipes/333)
 
 from flask import Flask, jsonify
 from flask_cors import CORS
