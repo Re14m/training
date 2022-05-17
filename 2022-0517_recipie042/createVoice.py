@@ -5,8 +5,8 @@ import boto3
 
 # Polly用クライアントの作成
 polly_client = boto3.Session(
-               aws_access_key_id= 'AKIA3IZKHWT2W34DC277',                     
-               aws_secret_access_key= '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',
+               aws_access_key_id= '<アクセスキー>',                     
+               aws_secret_access_key= '<シークレットアクセスキー>',
                region_name='ap-northeast-1'
                ).client('polly')
 
